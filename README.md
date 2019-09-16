@@ -1,2 +1,2 @@
-# strukdat
+# StrukDat
 Materi Struktur Data
